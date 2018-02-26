@@ -1,2 +1,3 @@
-# Half-life-AI
-Self-learning and self-emhancing program
+# Half-Life-AI
+Self-learning and self-enhancing program
+Python recursive reinforcment backpropogation algorithm
